@@ -23,7 +23,7 @@ export default function Home() {
               width={100}
               height={24}
               priority
-            />
+            />1
           </a>
         </div>
       </div>
